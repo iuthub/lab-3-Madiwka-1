@@ -1,0 +1,57 @@
+#main{
+	border: 10px white solid;
+	background-color: white;
+	margin-right: 10px;
+	margin-left: 10px;
+}	
+body{
+	background-image: url("images/lab3.jpg");
+}
+.h1{
+	padding: 3px;
+	text-align: right;
+	background-color: #A8F0F0;
+	margin-bottom: 10px;
+}
+.h1:hover{
+	background-color: yellow;
+}
+.h2{
+	font-size: 14px;
+}
+.w2, .q2 {
+	border: 4px solid lightblue;
+	background-color: #C2E9E9;
+	padding: 5px;
+	overflow: hidden;
+	margin: 5px;
+	margin-top: 0px;
+}
+.w2:hover{
+	background-color: yellow;
+}
+.date{
+	border-bottom: 2px dashed dodgerblue;
+}
+.friend{
+	width: 15%;
+	border: 5px solid lightskyblue;
+	padding: 5px;
+	background-color: #A8F0F0;
+	float: left;
+	clear: right;
+}
+.friend:hover{
+	background-color: yellow;
+}
+.q2:hover{
+	background-color: yellow;
+}
+#img1 {
+	float:  right;
+	
+}
+#img2{
+	float:  right;
+
+}
